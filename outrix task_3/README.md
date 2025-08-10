@@ -111,4 +111,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 **Created with ❤️ by [Sartender kumar*  
 📧 Contact: [satender2698@gmail.com]  
-🔗 Portfolio: [[your-portfolio-link.com](https://visionary-semolina-892341.netlify.app/)]  
+
